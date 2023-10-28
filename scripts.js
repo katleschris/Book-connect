@@ -97,9 +97,6 @@ blueButton.addEventListener('click', () => {
 })
 
 // create book preview
-
-
-
 function createBookPreview(book) {
   // Create preview container
   const preview = document.createElement('div');
